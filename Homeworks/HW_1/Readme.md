@@ -1,6 +1,6 @@
 ## Project description:
 
-### Search Engine
+### EDA
 
 Dataset:  (occupations and cities)
   - uscities.csv
