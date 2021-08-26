@@ -8,6 +8,7 @@
 - Classification
 - Regression
 - Generalization
+- Perceptron
 - Logistic Regression
 - Bayesian Models
 - KNN
