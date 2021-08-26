@@ -8,7 +8,7 @@ Dataset:  (occupations and cities)
 
 Libraries:
   - Numpy
-  - pandas
+  - Pandas
   - Matplotlib.Pyplot
 
 ### Tasks:
