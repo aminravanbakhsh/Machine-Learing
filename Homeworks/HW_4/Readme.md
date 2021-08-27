@@ -6,7 +6,7 @@ Dataset:  Toyota.xls
 
 Libraries:
   - Numpy
-  - pandas
+  - Pandas
   - Matplotlib.Pyplot
 
 ### Tasks:
