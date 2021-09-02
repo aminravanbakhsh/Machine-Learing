@@ -4,6 +4,8 @@
 - ## Factorization Machines
 Comparison of Factorization Machines method with common methods for classification and clustering about categorical data. Implementation a recommender system for YektaNet company's merchandise.
 
+[Meduim link](https://medium.com/analytics-vidhya/classification-in-click-through-rate-prediction-in-display-advertising-a487a03f8631)
+
 ### Homeworks:
 - EDA
 - Classification
