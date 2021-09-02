@@ -1,6 +1,6 @@
 ## Factorization Machine
 
-[Meduim link](https://medium.com/analytics-vidhya/classification-in-click-through-rate-prediction-in-display-advertising-a487a03f8631)
+[Medium link](https://medium.com/analytics-vidhya/classification-in-click-through-rate-prediction-in-display-advertising-a487a03f8631)
 
 ### Dataset:
 The dataset that we will work on is brought to you thanks to Yektanet (an Iranian digital advertising platform). the labeled ‘training’ portion of the dataset consists of over 4 million data.
